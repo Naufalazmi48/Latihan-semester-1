@@ -1,12 +1,15 @@
 ## Hey 👋, This is Lalu Naufal Azmi
 [<img alt="Gmail" src="https://img.shields.io/badge/Naufalazmi020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
+I'am a Google Certified - Associate Android Developer, you can check my credential at [here](https://www.credential.net/66dc518f-778b-4c65-b1e6-1507b9f4d0ca)
+
+![](https://github.com/Naufalazmi48/Naufalazmi48/blob/master/assets/images/Screenshot%20(695).png)
+
 ### Connect with me:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Lalu Naufal Azmi%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Instagram" src="https://img.shields.io/badge/Naufalazmi.kt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
-![](https://github.com/Naufalazmi48/Naufalazmi48/blob/master/assets/images/Screenshot%20(695).png)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Naufalazmi48 alt=Naufalazmi48 /> </p>
 
