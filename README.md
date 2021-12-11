@@ -1,10 +1,23 @@
 ## Hey 👋, This is Lalu Naufal Azmi
-[![Gmail Badge](https://img.shields.io/badge/-naufalazmi020@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:naufalazmi020@gmail.com)](mailto:naufalazmi020@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/naufalazmi48?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naufalazmi48/)](https://www.linkedin.com/in/naufalazmi48/) [![Github Badge](https://img.shields.io/badge/-Naufalazmi48-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Naufalazmi48/)](https://www.github.com/Naufalazmi48/) <p align='left'>I'am a Google Certified - Associate Android Developer, you can check my credential at [here](https://www.credential.net/66dc518f-778b-4c65-b1e6-1507b9f4d0ca)</p>
+[<img alt="Gmail" src="https://img.shields.io/badge/Naufalazmi020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+
+### Connect with me:
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Lalu Naufal Azmi%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img alt="Instagram" src="https://img.shields.io/badge/Naufalazmi.kt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
 ![](https://github.com/Naufalazmi48/Naufalazmi48/blob/master/assets/images/Screenshot%20(695).png)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Naufalazmi48 alt=Naufalazmi48 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Naufalazmi48&show_icons=true&include_all_commits=true)](https://github.com/Naufalazmi48/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naufalazmi48&layout=compact)](https://github.com/Naufalazmi48/github-readme-stats)
+### Languages, Frameworks :
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+[![Lalu Naufal Azmi github stats](https://github-readme-stats.vercel.app/api?username=naufalazmi48&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalazmi48&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[instagram]: https://www.instagram.com/naufalazmi.kt
+[linkedin]: https://www.linkedin.com/in/naufalazmi48
+[email]: mailto:naufalazmi020@gmail.com
